@@ -1,0 +1,1 @@
+export const name = 'Module File Value';
